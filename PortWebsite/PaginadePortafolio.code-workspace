@@ -2,7 +2,13 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "..\\Crypto API python"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PortWebsite",
+		"jupyter.jupyterServerType": "local"
+	}
 }
